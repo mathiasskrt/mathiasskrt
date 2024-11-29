@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @mathiasskrt
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on dis dick
-- 📫 How to reach me: tinder
-- 😄 Pronouns: they/them
-- ⚡ Fun fact: ...
+- BIELSYS NTNU
+- Elektra tekkom
 
 <!---
 mathiasskrt/mathiasskrt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
